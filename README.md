@@ -1,1 +1,1 @@
-# nodejs-mulitenant-mongodb-v2
+# nodejs-mulitenant-mongodb
